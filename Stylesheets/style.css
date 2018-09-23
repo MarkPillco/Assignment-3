@@ -1,0 +1,25 @@
+body{
+
+	background-color: #D3D3D3;
+}
+
+th, caption{
+	font-size: 20px;
+	font-weight:900;
+	text-decoration: bold;
+	font-family: "Oswald", sans-serif; 
+}
+
+.Time{
+
+	font-size: 20px;
+	font-weight:900;
+	text-decoration: bold;
+	font-family: "Oswald", sans-serif;
+}
+
+h1{
+	font-size: 45px;
+	font-family: "Raleway", sans-serif;
+
+}
